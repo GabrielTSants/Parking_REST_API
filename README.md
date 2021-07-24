@@ -1,4 +1,4 @@
-# parkingRESTAPI
+# Parking REST API
 REST API in NodeJs Express for parking management.
 
 Usage:
